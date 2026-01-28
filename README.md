@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Shohrux 👋
 
-<!--
-**shohruh-dev/shohruh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Java Backend Developer.
 
-Here are some ideas to get you started:
+### Tech Stack
+- Java
+- Spring Boot
+- REST API
+- JWT Authentication
+- PostgreSQL
+- Git
+- Linux (basic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Experience
+- Built backend REST APIs with Spring Boot
+- Worked with authentication and CRUD operations
+- 1 month experience in a real team project
+
+### Looking for
+- Junior Java Backend Developer role
+- Backend tasks or projects
